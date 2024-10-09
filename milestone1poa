@@ -1,4 +1,4 @@
-Milestone Outputs:
+Milestone #1 Outputs:
 
 1. Project Blueprint Detailing Blockchain Architecture and Integration Strategy**:
 We have defined the initial blockchain architecture and integration strategy for The Malama Project. 
@@ -10,7 +10,7 @@ We have defined the initial blockchain architecture and integration strategy for
 
 2. UI/UX Design Prototypes for the Platform:
   Carbon Sequestration Methods Information (2a):
-  - The UI will include clear information for farmers on current carbon sequestration methods via a dashboard.
+  - The UI will include clear information on current carbon sequestration methods via a dashboard.
     a.IMO Creation
     b.Biochar 
     Information related to carbon-increasing efforts is saved in the MongoDB until approved for credit creation/and minted.
@@ -21,8 +21,8 @@ We have defined the initial blockchain architecture and integration strategy for
   When Farmers create an account with our app:
   1b. An address is automatically created and stored in the User's MongoDB account.
   2b. A savecard is created to track/identify users. This is in the CIP68 format to allow users to record sequestration efforts and to reference each credit to an address/farm. 
-  3b. The reference NFT from the savecard will be sent to a Plutus contract that will store and validate all efforts for that user. 
-
+  3b. The reference NFT from the savecard will be sent to a Plutus contract which will store and validate all efforts for that user. 
+  4b. Wallet creation and Savecard are made automatically, so not to discourage new users with the burden of Understanding WEB3 before they can use the app. Farmers should have a low barrier of entry to participate.  
 2c. Display Carbon Efforts On-Chain :
   1c. All sequestration efforts will be automatically sent to the wallet created during farmer registration. 
   2c. Users will be able to see all credits created or (sensors readings if present)
