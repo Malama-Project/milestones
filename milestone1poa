@@ -1,0 +1,43 @@
+Milestone Outputs:
+
+1. Project Blueprint Detailing Blockchain Architecture and Integration Strategy**:
+We have defined the initial blockchain architecture and integration strategy for The Malama Project. 
+-We have organized our prpject into four main pillars:
+1. Fully operational stake pool. All wallet creation, tx, and minting are performed using the stakepool. 
+2. MongoDB. We use MongoDB for off-chain storage, and asset management before they go on-chain.
+3. A react/ts frontend to allow user input.
+4. Fastify Server. We use the fastify server to facilitate commuication between the stakepool, front-end, and MongoDB.
+
+2. UI/UX Design Prototypes for the Platform:
+  Carbon Sequestration Methods Information (2a):
+  - The UI includes clear information for farmers on current carbon sequestration methods via a dashboard.
+    a.IMO Creation
+    b.Biochar 
+    Information related to carbon-increasing efforts is presented along with visual metrics of the users' progress. 
+    Right now we a starting with IMO(indeginous Micro-organism creation) and applying biochar. 
+    Other methods will be added as approved by the project.     
+   
+2b.Easy Signup for Farmers
+  When Farmers create an account with our app:
+  1b. An address is automatically created and stored in the User's MongoDB account.
+  2b. A savecard is created to track/identify user. This is in the CIP68 format to allow users to record sequestration efforts, and to reference each credit to an address/farm. 
+  3b. The reference NFT from the savecard will be sent to a plutus contract that will store and validate all efforts for that user. 
+2c. Display Carbon Efforts On-Chain :
+  1c. All sequestration efforts will are automatically sent to the wallet created during farmer registration. 
+  2c. Users will be able to see all credits created or (sensors readings if present)
+
+UI/UX Evidence: Please reference UI/UX folder for screenshots. 
+
+3. Documentation on the Process for Minting Tokens Based on Farmers' Sequestration Efforts:
+- Farmers to mint tokens (NFTs) for their carbon sequestration efforts.
+  a.This proces starts with the farmer creating a sequestration project. 
+  b.The farmer is able to select his land on an interactive map.
+  c.Once land is selected, farmers are able start seqeustration efforts.(Currently Biochar application, and IMO creation)
+  d.When a farmer starts a seqeustration effort, a draft is created in our MongoDB
+  e.The sequestration effort goes to our board to verify the effort is valid.(Location, pictures, and biochar test results)
+  f.Once approved, a reference NFT is created and stored in a smart contract, allowing the userNFT to become the credit. 
+  g. Once the credit leaves the user wallet, it is marked as retired. 
+
+  
+
+
