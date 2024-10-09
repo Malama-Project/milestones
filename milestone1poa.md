@@ -1,16 +1,16 @@
 # Malama Project Milestone 1 Outputs:
 
 **1. Project Blueprint Detailing Blockchain Architecture and Integration Strategy**:
-We have defined the initial blockchain architecture and integration strategy for The Malama Project. 
-We have organized our project into four main pillars:
-1. Fully operational stake pool. All wallet creation, tx, and minting are performed using the stake pool. 
-2. MongoDB. We use MongoDB for off-chain storage, and asset management before they go on-chain.
-3. A react/ts frontend to allow user input.
-4. Fastify Server. We use the Fastify server to facilitate communication between the stake pool, front-end, and MongoDB.
+  We have defined the initial blockchain architecture and integration strategy for The Malama Project. 
+  We have organized our project into four main pillars:
+  1a. Fully operational stake pool. All wallet creation, tx, and minting are performed using the stake pool. 
+  2b. MongoDB. We use MongoDB for off-chain storage, and asset management before they go on-chain.
+  3c. A react/ts frontend to allow user input.
+  4c. Fastify Server. We use the Fastify server to facilitate communication between the stake pool, front-end, and MongoDB.
 
 **2. UI/UX Design Prototypes for the Platform**:
   Carbon Sequestration Methods Information:
-  The UI will include clear information on current carbon sequestration methods via a dashboard. Currently: 
+  The UI will include clear information on current carbon sequestration methods accessible through the user's profile via a dashboard. Currently: 
 
   A.IMO Creation 
     
