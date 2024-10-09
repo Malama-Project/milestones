@@ -52,6 +52,8 @@
   
   - e. The sequestration effort goes to our board to verify the effort is valid (Location, pictures, and biochar test results).
   
-  - f. Once approved, a reference NFT is created and stored in a smart contract, allowing the user NFT to become the credit. 
+  - f. Once approved, a reference NFT is created and stored in a credit smart contract, allowing the user NFT to become the credit. 
   
-  - g. Once the credit leaves the user's wallet, it is marked as retired.
+  - g. Once the credit leaves the user's wallet, the inline datum at the reference UTXO of the credit contract is updated as sold, with the purchaser information and pertinent information about the sale.
+
+  - h. Once the buyer has claimed and retired the credit, we will again update the inline datum with 'retired', along with the date/company who retired them. 
