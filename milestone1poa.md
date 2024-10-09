@@ -10,15 +10,15 @@ We have organized our project into four main pillars:
 
 **2. UI/UX Design Prototypes for the Platform**:
   Carbon Sequestration Methods Information:
-    The UI will include clear information on current carbon sequestration methods via a dashboard. Currently: 
+  The UI will include clear information on current carbon sequestration methods via a dashboard. Currently: 
 
-    A.IMO Creation 
+  A.IMO Creation 
     
-    B.Biochar Application 
+  B.Biochar Application 
     
-    Information related to carbon-increasing efforts is saved in the MongoDB until approved for credit creation/and minted.
-    We are starting with IMO(indigenous Micro-organism creation) and applying biochar. 
-    Other methods will be added as approved by the project.     
+  Information related to carbon-increasing efforts is saved in the MongoDB until approved for credit creation/and minted by a board vote.
+  We are starting with IMO(indigenous Micro-organism creation) and applying biochar. 
+  Other methods will be added as approved by the project.     
    
 **2b. Easy Signup for Farmers**
   When Farmers create an account with our app:
