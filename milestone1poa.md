@@ -9,6 +9,7 @@
   - 4c. Fastify Server. We use the Fastify server to facilitate communication between the stake pool, front-end, and MongoDB.
 
 **2. UI/UX Design Prototypes for the Platform**:
+**LINK TO FIGMA: https://www.figma.com/design/ZSyYCkYvMpWP9bGn9rGcbd/MalamaProjectFigma?m=auto&t=imLHg2TfdEQZDjUb-6**
   Carbon Sequestration Methods Information:
   The UI will include clear information on current carbon sequestration methods accessible through the user's profile via a dashboard. Currently: 
 
@@ -38,7 +39,7 @@
   - An example of sensor data being actively recorded on-chain can be found here: **https://nana-frontend.vercel.app/dagwell-test**
 
  **Please access UI/UX screenshots at https://github.com/Malama-Project/milestones/tree/main/UI.UX**
-
+**LINK TO FIGMA: https://www.figma.com/design/ZSyYCkYvMpWP9bGn9rGcbd/MalamaProjectFigma?m=auto&t=imLHg2TfdEQZDjUb-6**
 **3. Documentation on the Process for Minting Tokens Based on Farmers' Sequestration Efforts**:
   Farmers mint tokens (NFTs) for their carbon sequestration efforts.
   
