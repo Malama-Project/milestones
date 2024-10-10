@@ -40,6 +40,7 @@
 
  **Please access UI/UX screenshots at https://github.com/Malama-Project/milestones/tree/main/UI.UX**
 **LINK TO FIGMA: https://www.figma.com/design/ZSyYCkYvMpWP9bGn9rGcbd/MalamaProjectFigma?m=auto&t=imLHg2TfdEQZDjUb-6**
+
 **3. Documentation on the Process for Minting Tokens Based on Farmers' Sequestration Efforts**:
   Farmers mint tokens (NFTs) for their carbon sequestration efforts.
   
