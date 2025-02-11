@@ -1,0 +1,47 @@
+Overview
+The Open Office meeting facilitated an informal discussion among participants, focusing on several key topics. Dominick reported issues with server access, pinpointing a potential router configuration mismatch that he will troubleshoot. The meeting also covered the recent sports results, with Derrick sharing that his team lost in the semi-finals but highlighted an upcoming playoff series. Brad Trivers' text about new tariffs impacting US-Canada trade prompted a discussion on potential incorporation in Canada, as well as American products being pulled from Canadian liquor stores. Dominick outlined his work on server access and API functionalities, which faced environmental variable challenges, and he plans to test the API locally while resolving the access issues. The group explored the idea of a D-rep marketplace and the integration of metadata, while hardware upgrades, specifically routers, were also considered to enhance performance. The meeting briefly touched on advancements in AI tools, like the new Deep Research feature from Chat GPT, before addressing the recent incident involving an AI notetaker that was removed from the call. Action items were established, primarily centered on troubleshooting and product development.
+
+Notes
+Network Issues (00:02 - 50:49)
+Dominick experiencing server access issues from outside
+Suspected router configuration problem
+AT&T router and personal router IP address mismatch
+Dominick to troubleshoot and reconfigure router settings
+Sports Update (50:51 - 52:14)
+Derrick's team lost to the Dukes in semi-finals
+Upcoming seven-game series for playoffs
+Ace's exceptional performance mentioned
+Tariffs and Business Impact (52:15 - 54:46)
+Brad Trivers texted about new tariffs affecting US-Canada business
+Consideration of incorporating in Canada to bypass tariffs
+Canadian liquor stores removing American products
+Server and API Work (54:48 - 58:36)
+Dominick working on server access and API functionality
+Environment variables causing issues in bash script
+Plan to test API locally while external access is fixed
+D-rep and Marketplace Discussion (58:36 - 01:04:47)
+IOHK pushing for D-rep based on metadata
+Derrick suggests creating a marketplace instead
+Discussion on outputting prettified datum for chain integration
+️ Hardware and Router Considerations (01:04:51 - 01:22:40)
+Dominick considering upgrading computer hardware
+Discussion about getting a more powerful router
+Dominick troubleshooting IP configuration issues
+AI and Research Tools (01:22:41 - 01:24:18)
+Chat GPT released Deep Research feature for pro users
+AI agent conducts multi-step research on complex tasks
+Synthesizes information from hundreds of online sources
+AI Notetaker Discussion (01:24:19 - 01:24:40)
+Fireflies AI Notetaker attempted to join the meeting
+Paul previously kicked out the AI notetaker
+Dominick decides to remove the AI notetaker from the call
+
+Action items
+Dominick
+Troubleshoot and reconfigure router settings to fix external server access (47:22)
+Test API locally while working on external access fix (56:34)
+Upgrade computer hardware and consider getting a more powerful router (01:04:59)
+Derrick
+Follow up with Brad Trivers regarding tariffs and business impact (51:53)
+Continue developing the marketplace concept for D-rep (58:48)
+S
