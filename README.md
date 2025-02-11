@@ -23,7 +23,7 @@ Outputs for **Milestone 1** can be found at **https://github.com/Malama-Project/
    Provides a high-level overview of our Milestone 2 goals, achievements, and readiness to engage with Catalyst auditors.
 
 2. **Marketing and Community Engagement Report**  
-   - [marketing_community_engagement_report.md](./MarketingandCommunityEngagementReport.md)  
+   - [marketing_community_engagement_report.md](https://github.com/Malama-Project/milestones/blob/main/Marketing_Community_Engagement/MarketingandCommunityEngagementReport.md)  
    Outlines our continued work with local stakeholders, including near-daily interactions with farmers, the creation/improvement of [malamaproject.org](https://www.malamaproject.org), and expanded outreach efforts.
 
 3. **Technical Feasibility Study Report**  
