@@ -19,7 +19,7 @@ Outputs for **Milestone 1** can be found at **https://github.com/Malama-Project/
 ## Milestone 2 Deliverables
 
 1. **Front Sheet (Milestone 2 Summary)**  
-   - [Milestone@POA.md]([./front_sheet.md](https://github.com/Malama-Project/milestones/blob/main/Milestone2POA.md))  
+   - [Milestone@POA.md](https://github.com/Malama-Project/milestones/blob/main/Milestone2POA.md)  
    Provides a high-level overview of our Milestone 2 goals, achievements, and readiness to engage with Catalyst auditors.
 
 2. **Marketing and Community Engagement Report**  
