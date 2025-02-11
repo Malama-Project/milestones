@@ -27,7 +27,7 @@ Outputs for **Milestone 1** can be found at **https://github.com/Malama-Project/
    Outlines our continued work with local stakeholders, including near-daily interactions with farmers, the creation/improvement of [malamaproject.org](https://www.malamaproject.org), and expanded outreach efforts.
 
 3. **Technical Feasibility Study Report**  
-   - [technical_feasibility_study_report.md](./technical_feasibility_study_report.md)  
+   - [technical_feasibility_study_report.md](https://github.com/Malama-Project/milestones/blob/main/Technical%20Feasibility/Technical%20Feasibility%20Study%20Report.md)  
    Explores the CIP-721 NFT framework, Plutus script integration, and our approach to storing relevant farm data on-chain or via off-chain references (e.g., IPFS).
 
 4. **Workshops with Local Landowners Report**  
