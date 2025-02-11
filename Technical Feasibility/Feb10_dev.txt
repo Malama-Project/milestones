@@ -1,0 +1,39 @@
+Overview
+The Open Office meeting focused on several key technical and development areas, starting with discussions on Wallet Connect and API issues, where Derrick reported challenges with DREP ID, and Dominick proposed using a state key to resolve the problem. The team then transitioned to frontend development, with Derrick updating on wallet connect enhancements and Agueda contributing ideas for UI design, inspired by a dashboard mockup shared by Tyler. The meeting included a review of the data model for feedstock and its relevance to a proof of concept for potential investors. Attention was given to biomass testing protocols, examining initial testing procedures, storage options, and the tracking of energy usage for lifecycle assessments. The facility design and process flow were deliberated to optimize setup for weighing and testing biomass, with an emphasis on ensuring quality control through robust testing procedures that distinguish between lab and on-site testing. Action items were allocated, including updates to the wallet connect implementation, UI development, and the establishment of clear testing protocols for biomass.
+
+Notes
+Wallet Connect and API Issues (00:26 - 46:54)
+Derrick experiencing issues with DREP ID and API
+Dominick suggests using state key instead of pub key
+Discussion on Cardano serialization library and wallet connect functionality
+Frontend Development and UI Design (46:55 - 01:03:01)
+Derrick working on wallet connect updates and SIP improvements
+Agueda joins to discuss frontend work and design
+Tyler shared Envato for dashboard inspiration
+Data Model and Process Flow (01:03:02 - 01:18:39)
+Discussion on proof of concept for investors
+Review of data model for feedstock arrival, testing, and processing
+Consideration of biomass vs feedstock terminology
+Biomass Testing and Pre-processing (01:18:41 - 01:35:25)
+Detailed discussion on biomass arrival and initial testing
+Consideration of storage options and pre-processing steps
+Importance of tracking energy usage for LCA
+Facility Design and Process Flow (01:35:26 - 01:56:19)
+Discussion on ideal facility setup, including weighing and testing procedures
+Consideration of rejection process for unsuitable biomass
+Importance of testing before unloading biomass from trucks
+Quality Control and Testing Procedures (01:56:20 - 02:10:02)
+Detailed discussion on biomass testing procedures
+Consideration of lab testing vs. on-site testing
+Discussion on the importance of trusted origins for biomass suppliers
+
+Action items
+Derrick
+Implement wallet connect updates and SIP improvements (46:55)
+Build out UI based on Envato inspiration shared by Tyler (01:05:53)
+Update data model to reflect biomass and feedstock distinctions (02:03:28)
+Agueda
+Upload Artisan Sink carbon sink certification process document to shared folder (01:38:39)
+Team
+Define clear testing procedures for biomass arrival (02:08:05)
+Determine specific requirements for pre-processing based on biomass type (02:08:42)
