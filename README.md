@@ -31,7 +31,7 @@ Outputs for **Milestone 1** can be found at **https://github.com/Malama-Project/
    Explores the CIP-721 NFT framework, Plutus script integration, and our approach to storing relevant farm data on-chain or via off-chain references (e.g., IPFS).
 
 4. **Workshops with Local Landowners Report**  
-   - [Workshops with Local Landowners](./workshops_with_local_landowners.md)  
+   - [Workshops with Local Landowners](https://github.com/Malama-Project/milestones/blob/main/Workshops%20with%20Local%20Landowners/workshops_with_local_landowners.md)  
    Recaps our hands-on sessions with Paul & Jeffery and other Maui farmers, highlighting how feedback has refined our platform’s design and feature roadmap.
 
 ---
