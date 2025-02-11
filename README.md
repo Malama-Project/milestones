@@ -47,7 +47,7 @@ Outputs for **Milestone 1** can be found at **[milestone1poa.md](https://github.
 - **[UI.UX](https://github.com/Malama-Project/milestones/tree/main/UI.UX)**  
   - Wireframes, prototypes, and user flow diagrams for our beta dashboard and website.
 
-- **[GitHub Commits](https://github.com/Malama-Project/milestones/tree/main/GitHub%20Commits)**  
+- **[GitHub Commits](https://github.com/Malama-Project/milestones/tree/main/Github%20Commits)**  
   - Documentation of code commits and partial snapshots (private until final security checks are completed).
 
 ---
