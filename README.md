@@ -16,7 +16,7 @@ Welcome to the **MALAMA Project** repository, dedicated to tracking milestones a
    - [Milestone2POA.md](./Milestone2POA.md)
 
 2. **Marketing and Community Engagement Report**  
-   - [MarketingandCommunityEngagementReport.md](./Marketing Community Engagement/MarketingandCommunityEngagementReport.md)
+   - [MarketingandCommunityEngagementReport.md](https://github.com/Malama-Project/milestones/blob/main/Workshops%20with%20Local%20Landowners/workshops_with_local_landowners.md)
 
 3. **Technical Feasibility Study Report**  
    - [TechnicalFeasibilityStudyReport.md](./Technical_Feasibility/TechnicalFeasibilityStudyReport.md)
