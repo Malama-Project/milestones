@@ -1,78 +1,81 @@
 ---
-title: "MALAMA Project - Milestone 2 Summary"
+title: "MALAMA Project - Milestone 2 Resubmission"
 date: "February 2025"
 ---
 
-# MALAMA Project - Milestone 2 Summary
+# MALAMA Project - Milestone 2 Resubmission
 
 **Catalyst Proposal:** #1200230  
 **Date:** February 2025  
 
 ---
 
-## Overview
+## OVERVIEW
 
-During **Milestone 2**, the MALAMA Project continued refining its **Cardano-based carbon tracking solution**, building upon insights from prior engagements with local landowners, government representatives, and the broader Cardano community. Our primary focus areas included:
-
-1. **Deepening Community Engagement**  
-   - Maintaining regular workshops, farm tours, and near-daily check-ins with **Paul & Jeffery** to ensure the platform meets real-world needs.
-
-2. **Technical Advancements**  
-   - Further testing and documenting the feasibility of **CIP-721 NFT** usage and **Plutus** integration.  
-   - Implementing user feedback into the upcoming **beta dashboard**, aligning with the website enhancements at [malamaproject.org](https://www.malamaproject.org).
-
-3. **Market & Stakeholder Alignment**  
-   - Enhancing marketing materials and demonstration tools to clarify the **value proposition** of on-chain sustainability tracking.  
-   - Preparing for a broader pilot phase by incorporating early feedback from landowners, the Maui Farmers Association (anonymous), and Senator Lee’s office.
-
-All related reports, including details on community engagement, technical feasibility, and workshop outcomes, are included in this repository (see **Updated README** for links).
+During Milestone 2, the MALAMA Project continued refining its Cardano-based carbon tracking solution, leveraging feedback from local landowners (Paul & Jeffery), government representatives, and the broader Cardano community. This resubmission provides **structured documentation**, **direct links**, and **photographic evidence**, addressing reviewer requests for clarity and transparency.
 
 ---
 
-## Key Milestone 2 Documents
+## KEY UPDATES & CHANGES
+
+- **Structured Evidence & Direct Links**  
+  Separated evidence into dedicated markdown files (Marketing, Technical Feasibility, Workshops, Farm Tours), each with its own GitHub link.
+
+- **Detailed Farm Tours**  
+  Provided **dates, attendees, feedback, and photos** for the Oct 17 Jeffrey Farm Tour and Oct 17 Paul Farm Tour.
+
+- **Created malamaproject.org**  
+  Offers plain-language guides explaining our on-chain approach to carbon credit generation and daily data logging.
+
+---
+
+## KEY MILESTONE 2 DOCUMENTS
 
 1. **Marketing and Community Engagement Report**  
-   - Summarizes ongoing outreach to farmers, resulting website improvements, and validated market interest.
+   - Summarizes outreach efforts, website updates, and validated market interest.  
+   - [View on GitHub](https://github.com/Malama-Project/milestones/blob/main/Marketing_Community_Engagement/MarketingandCommunityEngagementReport.md)
 
 2. **Technical Feasibility Study Report**  
-   - Explores the CIP-721 and Plutus architecture in greater depth, highlighting initial testnet results and next steps for open-source release.
+   - Explores our project’s on-chain design, smart contract logic, and next steps for open-sourcing.  
+   - [View on GitHub](https://github.com/Malama-Project/milestones/blob/main/Technical%20Feasibility/TechnicalFeasibilityStudyReport.md)
 
 3. **Workshops with Local Landowners Report**  
-   - Highlights near-daily sessions with primary landowners (Paul & Jeffery) and farm tours with other Maui farmers, leading to significant input on the beta dashboard design.
+   - Highlights sessions with Paul & Jeffery, farm tours, and the resulting design inputs for the beta dashboard.  
+   - [View on GitHub](https://github.com/Malama-Project/milestones/blob/main/Workshops%20with%20Local%20Landowners/workshops_with_local_landowners.md)
 
-4. **Front Sheet (this document)**  
-   - Provides a high-level overview of Milestone 2 achievements and references all associated files.
-
----
-
-## Willingness to Engage with Auditors
-
-We encourage **auditors** and **community advisors** to reach out with any questions or requests for clarification. We stand ready to:
-
-- Demonstrate private commits or code snippets as needed (subject to ongoing security considerations).  
-- Organize video calls or further meetings to discuss improvements, data privacy, and user experience refinements.  
-- Collaborate on suggestions that strengthen MALAMA’s impact and alignment with Cardano Catalyst objectives.
-
-For inquiries, please contact us at [info@malamaproject.org](mailto:info@malamaproject.org).
+4. **Farm Tour Report**  
+   - Details on-site equipment, processes, and how these visits led to clearer explanations of our project on malamaproject.org.  
+   - [View on GitHub](https://github.com/Malama-Project/milestones/blob/main/Farm_Tours/FarmTourReport.md)
 
 ---
 
-## Next Steps
+## WILLINGNESS TO ENGAGE WITH AUDITORS
+
+We invite auditors and community advisors to:
+
+- **Request private code demonstrations** (until security checks are complete).  
+- **Schedule video calls** or follow-up discussions on data privacy or UI/UX enhancements.  
+- **Offer feedback** that strengthens MALAMA’s alignment with Cardano Catalyst goals.
+
+**Contact**: [info@malamaproject.org](mailto:info@malamaproject.org)
+
+---
+
+## NEXT STEPS
 
 1. **Beta Dashboard Release**  
-   - Finalizing a user-friendly dashboard for convenient data logging, tokenization, and visualization of carbon metrics.
+   Finalizing a mobile-first interface for data logging, token creation, and carbon metric visualization.
 
 2. **Open-Source Transition**  
-   - Completing security reviews and code polishing before moving our private repository into a **public-facing** GitHub environment.
+   Completing security reviews before publishing our private repository for public collaboration.
 
 3. **Further Community Testing**  
-   - Rolling out pilot implementations on local farms, gathering live data to refine metrics, and building stakeholder confidence in the solution’s efficacy.
+   Launching pilot implementations on local farms, refining metrics with real-time data.
 
 ---
 
 **Submitted by:**  
 *MALAMA Project Team*  
-
 **Date:** February 2025  
 
-Thank you for reviewing our **Milestone 2** deliverables. We look forward to ongoing collaboration and feedback from the Cardano Catalyst community.
+Thank you for reviewing our **Milestone 2 Resubmission**. We look forward to continued collaboration and feedback from the Cardano Catalyst community.
