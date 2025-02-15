@@ -33,7 +33,7 @@ Welcome to the **MALAMA Project** repository, dedicated to tracking milestones a
 
 - **[UI.UX](./UI.UX)**: Wireframes, mockups, or other design resources.  
 - **[Farm_Tours](./Farm_Tours)**: Subfolders for farm photos (10.17 Jeffery Farm Tour & 10.17 Paul Farm Tour).  
-- **[GitHub Commits](./GitHub%20Commits)** (if used): Documentation of commit snapshots or partial code references.  
+- **[GitHub Commits](https://github.com/Malama-Project/milestones/tree/main/Github%20Commits)** : Documentation of commit snapshots or partial code references.  
 
 ---
 
