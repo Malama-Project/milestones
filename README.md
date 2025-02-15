@@ -19,13 +19,13 @@ Welcome to the **MALAMA Project** repository, dedicated to tracking milestones a
    - [MarketingandCommunityEngagementReport.md](https://github.com/Malama-Project/milestones/blob/main/Workshops%20with%20Local%20Landowners/workshops_with_local_landowners.md)
 
 3. **Technical Feasibility Study Report**  
-   - [TechnicalFeasibilityStudyReport.md](./Technical_Feasibility/TechnicalFeasibilityStudyReport.md)
+   - [TechnicalFeasibilityStudyReport.md](https://github.com/Malama-Project/milestones/blob/main/Technical%20Feasibility/Technical%20Feasibility%20Study%20Report.md)
 
 4. **Workshops with Local Landowners Report**  
-   - [workshops_with_local_landowners.md](./Workshops_with_Local_Landowners/workshops_with_local_landowners.md)
+   - [workshops_with_local_landowners.md](https://github.com/Malama-Project/milestones/blob/main/Workshops%20with%20Local%20Landowners/workshops_with_local_landowners.md)
 
 5. **Farm Tour Report**  
-   - [FarmTourReport.md](./Farm_Tours/FarmTourReport.md)
+   - [FarmTourReport.md](https://github.com/Malama-Project/milestones/blob/main/Farm_Tours/FarmTourReport.md)
 
 ---
 
