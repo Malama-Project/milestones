@@ -12,20 +12,27 @@ date: "February 2025"
 
 ## OVERVIEW
 
-During Milestone 2, the MALAMA Project continued refining its Cardano-based carbon tracking solution, leveraging feedback from local landowners (Paul & Jeffery), government representatives, and the broader Cardano community. This resubmission provides **structured documentation**, **direct links**, and **photographic evidence**, addressing reviewer requests for clarity and transparency.
+During **Milestone 2**, the MALAMA Project continued refining its Cardano-based carbon tracking solution, leveraging feedback from local landowners (Paul & Jeffery), government representatives, and the broader Cardano community. This resubmission provides **structured documentation**, **direct links**, and **photographic evidence**, addressing reviewer requests for clarity and transparency.  
+
+We also developed a **mobile-friendly** approach for our upcoming dashboard, ensuring that landowners can manage parcels and log data on the go. Please see the **Mobile UI** section below for full details.
 
 ---
 
 ## KEY UPDATES & CHANGES
 
-- **Structured Evidence & Direct Links**  
-  Separated evidence into dedicated markdown files (Marketing, Technical Feasibility, Workshops, Farm Tours), each with its own GitHub link.
+1. **Structured Evidence & Direct Links**  
+   - We separated each major deliverable (Marketing, Technical Feasibility, Workshops, Farm Tours) into dedicated Markdown files, each with its own GitHub link.
 
-- **Detailed Farm Tours**  
-  Provided **dates, attendees, feedback, and photos** for the Oct 17 Jeffrey Farm Tour and Oct 17 Paul Farm Tour.
+2. **Detailed Farm Tours**  
+   - Provided **dates, attendees, feedback, and photos** for the Oct 17 Jeffrey Farm Tour and Oct 17 Paul Farm Tour, clarifying how on-site equipment and processes informed the platform’s design.
 
-- **Created malamaproject.org**  
-  Offers plain-language guides explaining our on-chain approach to carbon credit generation and daily data logging.
+3. **Website & App**  
+   - Created [malamaproject.org](https://www.malamaproject.org) as an **explanatory site** offering plain-language guides on carbon credit generation and daily data logging.  
+   - [app.malamaproject.org](https://app.malamaproject.org) remains our **functional** environment for credit creation and land parcel management.
+
+4. **Mobile-Friendly Dashboard**  
+   - Began integrating **mobile-focused UI/UX** improvements, as shown in our screenshots and the live prototype [here](https://malama-labs-nana.vercel.app/).  
+   - This addresses landowner feedback that data should be easily updated from the field.
 
 ---
 
@@ -44,14 +51,38 @@ During Milestone 2, the MALAMA Project continued refining its Cardano-based carb
    - [View on GitHub](https://github.com/Malama-Project/milestones/blob/main/Workshops%20with%20Local%20Landowners/workshops_with_local_landowners.md)
 
 4. **Farm Tour Report**  
-   - Details on-site equipment, processes, and how these visits led to clearer explanations of our project on malamaproject.org.  
+   - Details on-site equipment, processes, and how these visits informed clearer project explanations on malamaproject.org.  
    - [View on GitHub](https://github.com/Malama-Project/milestones/blob/main/Farm_Tours/FarmTourReport.md)
+
+---
+
+## MOBILE UI PREVIEW
+
+Our **mobile-friendly UI** addresses reviewer feedback for a dashboard that landowners can use on smartphones or tablets. The following images are located in [UI.UX/Malama_Mobile_UI](https://github.com/Malama-Project/milestones/tree/main/UI.UX/Malama_Mobile_UI):
+
+- **Mobile_Landing_Page_Light.png**  
+  Landing page in light mode, introducing “Hawaiian Land & Carbon Management” with a call to action.
+
+- **Mobile_Login_Light.png**  
+  Login screen requesting username and password; a “Register” option is available.
+
+- **Current_Dashboard_Light.png** / **Current_Dashboard_Dark.png**  
+  Illustrates the current user dashboard in light/dark modes, where users can view profile info, manage land parcels, or claim new land.
+
+- **Mobile_LandSearch_Light.png** / **Mobile_LandSearch_Dark.png**  
+  Shows our land search page with **Auto-Fetch** toggles for GPS-based location, or manual TMK entry.
+
+- **Mobile_AddProject_Light.png** / **Mobile_AddProject_Dark.png**  
+  Let users add new projects for carbon tracking, soil tests, or other sustainable practices.
+
+- **Current_Dashboard_Prototype.png**  
+  Reflects the live prototype at [https://malama-labs-nana.vercel.app/](https://malama-labs-nana.vercel.app/), showcasing next-phase improvements.
 
 ---
 
 ## WILLINGNESS TO ENGAGE WITH AUDITORS
 
-We invite auditors and community advisors to:
+We invite **auditors** and **community advisors** to:
 
 - **Request private code demonstrations** (until security checks are complete).  
 - **Schedule video calls** or follow-up discussions on data privacy or UI/UX enhancements.  
@@ -64,13 +95,14 @@ We invite auditors and community advisors to:
 ## NEXT STEPS
 
 1. **Beta Dashboard Release**  
-   Finalizing a mobile-first interface for data logging, token creation, and carbon metric visualization.
+   - Finalizing the new **mobile-first** UI for data logging, token creation, and carbon metric visualization.  
+   - Integrating prototype features from [malama-labs-nana.vercel.app](https://malama-labs-nana.vercel.app/) into the live app.
 
 2. **Open-Source Transition**  
-   Completing security reviews before publishing our private repository for public collaboration.
+   - Completing security reviews prior to publishing our private repository to the public.
 
 3. **Further Community Testing**  
-   Launching pilot implementations on local farms, refining metrics with real-time data.
+   - Launching pilot implementations on local farms; refining metrics based on real-time usage data.
 
 ---
 
@@ -78,4 +110,4 @@ We invite auditors and community advisors to:
 *MALAMA Project Team*  
 **Date:** February 2025  
 
-Thank you for reviewing our **Milestone 2 Resubmission**. We look forward to continued collaboration and feedback from the Cardano Catalyst community.
+Thank you for reviewing our **Milestone 2 Resubmission**. We look forward to ongoing collaboration and feedback from the Cardano Catalyst community.
