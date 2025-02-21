@@ -44,7 +44,7 @@ We also developed a **mobile-friendly** approach for our upcoming dashboard, ens
 
 2. **Technical Feasibility Study Report**  
    - Explores our project’s on-chain design, smart contract logic, and next steps for open-sourcing.  
-   - [View on GitHub](https://github.com/Malama-Project/milestones/blob/main/Technical%20Feasibility/TechnicalFeasibilityStudyReport.md)
+   - [View on GitHub](https://github.com/Malama-Project/milestones/blob/main/Technical%20Feasibility/Technical%20Feasibility%20Study%20Report.md)
 
 3. **Workshops with Local Landowners Report**  
    - Highlights sessions with Paul & Jeffery, farm tours, and the resulting design inputs for the beta dashboard.  
