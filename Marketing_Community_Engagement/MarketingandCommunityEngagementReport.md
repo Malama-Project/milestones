@@ -32,15 +32,15 @@ All related reports, including details on community engagement, technical feasib
 ## Key Milestone 2 Documents
 
 1. **Marketing and Community Engagement Report**  
-   - [MarketingandCommunityEngagementReport.md](./Marketing_Community_Engagement/MarketingandCommunityEngagementReport.md)  
+   - [MarketingandCommunityEngagementReport.md](https://github.com/Malama-Project/milestones/blob/main/Marketing_Community_Engagement/MarketingandCommunityEngagementReport.md)  
    Summarizes our continued work with local farmers, the evolution of [malamaproject.org](https://www.malamaproject.org), and outreach results.
 
 2. **Technical Feasibility Study Report**  
-   - [Technical Feasibility Study Report.md](./Technical%20Feasibility/Technical%20Feasibility%20Study%20Report.md)  
+   - [Technical Feasibility Study Report.md](https://github.com/Malama-Project/milestones/blob/main/Technical%20Feasibility/Technical%20Feasibility%20Study%20Report.md)  
    Explores our CIP-721 NFT architecture, Plutus script integration, and the data-storage strategies for farm metrics.
 
 3. **Workshops with Local Landowners**  
-   - [workshops_with_local_landowners.md](./Workshops%20with%20Local%20Landowners/workshops_with_local_landowners.md)  
+   - [workshops_with_local_landowners.md](https://github.com/Malama-Project/milestones/blob/main/Workshops%20with%20Local%20Landowners/workshops_with_local_landowners.md)  
    Recaps hands-on sessions with Paul & Jeffery, along with farm tours that informed the beta dashboard design.
 
 ---
