@@ -101,7 +101,7 @@ Supporting documentation:
 
 The legal team has:
 
-- Formally incorporated the Malama Project in Hawaii.
+- Formally incorporated the Malama Project in Delaware.
 - Ensured backend compliance with data sovereignty standards.
 - Drafted disclaimers for participation in carbon markets.
 
