@@ -29,6 +29,23 @@ Welcome to the **MALAMA Project** repository, dedicated to tracking milestones a
 
 ---
 
+## Milestone 3
+
+1. **Proof of Achievement Report**  
+   - [Milestone3POA.md](./Milestone3POA.md)
+
+2. **Live Beta Platform**  
+   - [https://app.malamaproject.org](https://app.malamaproject.org)
+
+3. **Pilot Testing Reports**  
+   - [Farm Tour Report](https://github.com/Malama-Project/milestones/blob/main/Farm_Tours/FarmTourReport.md)  
+   - [Workshops with Local Landowners](https://github.com/Malama-Project/milestones/blob/main/Workshops%20with%20Local%20Landowners/workshops_with_local_landowners.md)
+
+4. **Legal Documentation**  
+   - [Malama Project Structure Status and Implementation Plan (PDF)](https://github.com/Malama-Project/milestones/blob/main/Legal/Malama%20Project%20Structure%20Status%20and%20Implementation%20Plan.pdf)
+
+---
+
 ## Additional Folders
 
 - **[UI.UX](./UI.UX)**: Wireframes, mockups, or other design resources.  
@@ -46,4 +63,4 @@ We welcome any questions or requests for a private video walk-through of our cod
 ---
 
 **MALAMA Project Team**  
-*February 2025*
+*April 2025*
