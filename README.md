@@ -32,7 +32,7 @@ Welcome to the **MALAMA Project** repository, dedicated to tracking milestones a
 ## Milestone 3
 
 1. **Proof of Achievement Report**  
-   - [Milestone3POA.md](./Milestone3POA.md)
+   - [Milestone3POA.md](https://github.com/Malama-Project/milestones/blob/main/MalamaProject_Milestone3_POA.md)
 
 2. **Live Beta Platform**  
    - [https://app.malamaproject.org](https://app.malamaproject.org)
