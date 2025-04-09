@@ -56,7 +56,7 @@ We also address the current state of our **open-source** efforts and highlight n
 
 ---
 
-## 4. Plutus Datum Integration
+## 4. Plutus Datum Integration / CIP-68 Implemtation 
 
 1. **Cross-Referencing Batch IDs**  
    - Each minted NFT includes a `batchId` in its metadata; the corresponding **Plutus datum** references the same ID to connect on-chain logic with specific batches.  
