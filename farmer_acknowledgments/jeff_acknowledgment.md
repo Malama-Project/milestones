@@ -9,7 +9,7 @@
 ### Summary of Feedback Incorporated
 
 - ✅ Requested simplified data-entry tools for mobile — implemented a responsive interface in the beta.
-- ✅ Advocated for step-by-step guidance — marketing materials now include visual walkthroughs and simplified instructions.
+- ✅ Requested more accessible marketing material for other farmers — created visual-first, mobile-ready outreach 
 - ✅ Identified importance of real-time carbon tracking — dashboard features now include live metric feedback.
 
 ---
